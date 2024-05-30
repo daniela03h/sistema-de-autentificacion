@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "ad2",
+      "usename": "example",
+      "lastName": "example",
+      "email": "example@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "bdb1",
+      "username": "dani",
+      "lastName": "londo",
+      "email": "david@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ec12",
+      "username": "da",
+      "lastName": "dd",
+      "email": "juan2@gmail.com",
+      "password": "145"
+    },
+    {
+      "id": "68e7",
+      "username": "aa",
+      "lastName": "londo",
+      "email": "romarioajb@outlook.com",
+      "password": "12"
+    }
+  ]
+}
